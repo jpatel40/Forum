@@ -1,0 +1,78 @@
+h3 {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: medium;
+}
+
+p,
+a {
+  color: whitesmoke;
+  text-decoration: none;
+  background-color: #0000;
+}
+
+body {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  background-color: rgb(235, 38, 38);
+}
+
+.form-control {
+  color: black;
+}
+
+.content {
+  background-color: azure;
+}
+
+.container-fluid {
+  display: none;
+  text-align: center;
+  font-size: larger;
+  font-weight: bold;
+
+}
+
+.colorcode {
+  background-color: rgb(235, 38, 38);
+}
+
+.form-group {
+  background-color: rgb(235, 38, 38);
+  color: white;
+}
+
+.logbutton {
+  background-color: black;
+  color: white;
+}
+
+.post-header {
+  text-align: center;
+  height: 100%;
+  margin: 16px 0;
+}
+
+.bot-line {
+  height: 2em;
+}
+
+.bot-line p {
+  margin-left: 1em;
+}
+
+.btn {
+  background-color: rgb(235, 38, 38);
+  border-radius: 10;
+  border: 2px;
+  color: white;
+  /* padding: 15px 32px; */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+}
+
+
+.login-column {
+  margin: auto;
+  padding: 3% 2%;
+}
